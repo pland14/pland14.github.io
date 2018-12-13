@@ -134,3 +134,7 @@ p {
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+.about-title {
+  color:#A4A4A4;
+}
